@@ -11,9 +11,8 @@ A React project that practices mapping components by dynamically rendering emoji
 3. [Usage](#usage)
 4. [Features](#features)
 5. [Technologies](#technologies)
-6. [Folder Structure](#folder-structure)
-7. [Scripts](#scripts)
-8. [License](#license)
+6. [Scripts](#scripts)
+7. [License](#license)
 
 ## Overview
 
